@@ -1,3 +1,4 @@
+#Encrypter
 class Encrypter
   def initialize(key)
     @key = key
