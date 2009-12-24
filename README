@@ -1,3 +1,5 @@
 Ruby is the first dynamic language I started learning. I tried learning Python as well but the inherent sweetness of Ruby made me decide to really master Ruby.
 
-Ruby is an easy language to learn. Simply install Ruby, start up irb command line ruby interpreter and type or execute code. However mastering Ruby is difficult. When I tried reading Rails or even Sinatra source code, I recognized huge gaps in my understanding of Ruby language. So I started reading Ruby books.
+Ruby is an easy language to learn. Simply install Ruby, start up irb command line ruby interpreter and type or execute code. However mastering Ruby is difficult. When I tried reading Rails or even Sinatra source code, I recognized huge gaps in my understanding of Ruby language. So I started reading Ruby books. 
+
+Everything in Ruby is an object, including an integer for example 3. Obviously Ruby is an Object Oriented Programming (OOP) dynamic language. So it is quite different from static languages such as C# or Java. It made sense to me to learn Ruby by learning how to implement GOF design patterns in Ruby. This GitHub repository is just such an attempt.
